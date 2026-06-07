@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Horizon
 // @namespace    http://tampermonkey.net/
-// @version      1.3
-// @description  Horizon — Next Gen Cheat + Blocker + Rain + FPS/Ping + Potato (ULTRA)
+// @version      1.0
+// @description  Horizon best bng cheat
 // @author       Blivzy, Ibz, Suppres
 // @match        *://*buildnow-gg.game-files.crazygames.com/unity/unity2020/*
 // @match        https://www.crazygames.com/game/buildnow-gg
