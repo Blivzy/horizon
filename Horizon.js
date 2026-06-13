@@ -7,7 +7,7 @@
 // @match        *://*buildnow-gg.game-files.crazygames.com/unity/unity2020/*
 // @match        https://www.crazygames.com/game/buildnow-gg
 // @run-at       document-start
-// @require      https://raw.githubusercontent.com/suppressfinallygotgh/uwmtestinglol/refs/heads/main/main.js
+// @require      https://raw.githubusercontent.com/Blivzy/Horizonmenuloader/refs/heads/main/main.js
 // @grant        none
 // ==/UserScript==
 
